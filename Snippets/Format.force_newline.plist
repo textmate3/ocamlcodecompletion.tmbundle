@@ -1,7 +1,16 @@
-{
-    content = "Format.force_newline ()"; 
-    name = "Format.force_newline"; 
-    tabTrigger = "Format."; 
-    uuid = "0558A182-753A-11D9-81F4-000A95AFE286"; 
-    scope = "source.ocaml";
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Format.force_newline ()</string>
+	<key>name</key>
+	<string>Format.force_newline</string>
+	<key>scope</key>
+	<string>source.ocaml</string>
+	<key>tabTrigger</key>
+	<string>Format.</string>
+	<key>uuid</key>
+	<string>0558A182-753A-11D9-81F4-000A95AFE286</string>
+</dict>
+</plist>
